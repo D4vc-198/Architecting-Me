@@ -2,8 +2,6 @@
 
 Este programa solicita al usuario ingresar una lista de números enteros y determina cuál es el **segundo número más grande**, siempre que exista uno distinto al mayor.
 
----
-
 ## 🧪 Requisitos del programa
 
 - ✅ Solicitar al usuario la longitud del arreglo (mínimo 2).
@@ -12,8 +10,6 @@ Este programa solicita al usuario ingresar una lista de números enteros y deter
 - ✅ Validar que cada entrada sea numérica.
 - ✅ Encontrar el segundo número más grande de forma eficiente (O(n)).
 - ✅ Mostrar un mensaje claro si **no existe un segundo número distinto** al mayor.
-
----
 
 ## 📥 Entrada esperada
 
@@ -79,7 +75,6 @@ Supongamos que el arreglo es: `[10, 20, 20, 10, 5]`
 
 Resultado: `Segundo mayor es: 10`
 
----
 
 ## 🎓 Conclusión
 
@@ -87,7 +82,6 @@ Resultado: `Segundo mayor es: 10`
 - ✅ No se utilizan estructuras auxiliares.
 - ✅ Se manejan entradas no válidas de forma robusta.
 
----
 
 ## 🧠 Conocimientos aplicados
 
@@ -96,7 +90,6 @@ Resultado: `Segundo mayor es: 10`
 - Algoritmos de recorrido con condiciones múltiples.
 - Uso de referencias (`&`) para modificar variables desde funciones.
 
----
 
 ## ✅ Lista de verificación técnica
 
@@ -110,4 +103,3 @@ Resultado: `Segundo mayor es: 10`
 | Uso de referencias para mantener estado global           | ✅ Cumplido |
 | Formato de salida claro y correcto                       | ✅ Cumplido |
 
----

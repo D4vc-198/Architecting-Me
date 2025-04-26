@@ -41,25 +41,6 @@ En esta primera semana asentamos las bases para entender los **arrays** en C++, 
 | ID  | Título           | Resumen                                           |
 |-----|------------------|---------------------------------------------------|
 | 01  | Inversión de Array | Leer un array de tamaño fijo e imprimirlo al revés |
+| 02  | segundo número más grande | Encontrar el segundo número más grande de un array |
 
 Pronto añadiremos más ejercicios a lo largo de la semana.
-
----
-
-## ✅ Habilidades adquiridas
-
-Al finalizar esta semana, serás capaz de:
-
-- Construir programas básicos que usen arrays para entrada y salida  
-- Entender cómo se gestiona la memoria con arrays  
-- Implementar código limpio y modular mediante funciones  
-
----
-
-## 🔗 Próximos pasos
-
-- Explorar arrays multidimensionales  
-- Profundizar en complejidad temporal y eficiencia de operaciones  
-- Transicionar de arrays a `std::vector`  
-
----

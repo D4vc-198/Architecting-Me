@@ -22,7 +22,7 @@ Cada semana se centra en un tema clave de ciencias de la computación e ingenier
 ```
 architecting-me/
 ├── week1-arrays/
-│   ├── exercises/
+│   ├── exercise-01-invert-array/
 │   ├── web/
 │   ├── mini-project/
 │   └── README.md

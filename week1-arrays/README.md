@@ -43,5 +43,6 @@ En esta primera semana asentamos las bases para entender los **arrays** en C++, 
 | 01  | Inversión de Array | Leer un array de tamaño fijo e imprimirlo al revés |
 | 02  | segundo número más grande | Encontrar el segundo número más grande de un array |
 | 03  | Encontrar el número que más se repite | Encontrar el número que más se repite en un array y mostrar la cantidad de apariciones |
+| 04  | Encontrar el valor mínimo y su índice | Encontrar y mostrar el valor mínimo y su índice en un arreglo |
 
 Pronto añadiremos más ejercicios a lo largo de la semana.
